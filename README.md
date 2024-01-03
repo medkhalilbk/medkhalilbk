@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khalil Benkhelil</h1>
 <h3 align="center">A Fullstack developer from Tunisia 🇹🇳</h3>
 
-- 🔭 I’m currently working on **slide-decentralized-wallet**
+- 🔭 I’m currently working on **Snow-App Mobile Application**
 
-- 🌱 I’m currently learning **Blockchain fundamentals & NodeJS**
+- 🌱 I’m currently learning **Docker & AWS**
 
-- 💬 Ask me about **React, Angular, Php**
+- 💬 Ask me about **React, Angular, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
