@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Tunisia 🇹🇳</h3>
 
 - 🔭 I’m currently working on **[Elite Pare-Brise](https://www.eliteparebrise.fr/)**
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Swift/SwiftUI**
 - 💬 Ask me about **React, Angular, NodeJS**
 
 <h3 align="left">My personal website:</h3>
