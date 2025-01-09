@@ -7,7 +7,7 @@
 - 💬 Ask me about **React, Angular, NodeJS**
 
 <h3 align="left">My personal website:</h3>
-<a href="https://khalil.work" target="blank">
+<a href="https://khalil.works" target="blank">
   <img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/website-3440970-2888144.png?f=webp" alt="Personal Website" width="70"/>
 </a>
 
