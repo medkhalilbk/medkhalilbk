@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khalil Benkhelil</h1>
 <h3 align="center">A software developer from Tunisia 🇹🇳</h3>
 
-- 🔭 I’m currently working on **[Elite Pare-Brise](https://www.eliteparebrise.fr/)**
+- 🚀 Shifting gears to GitLab! If you don’t see my heat map, it means I’m all in on GitLab.
+- 🔭 I’m currently working on **[StockGeste Mobile App](http://stockgeste.com/)** (Project not launched yet) 
 - 🌱 I’m currently learning **Swift/SwiftUI**
 - 💬 Ask me about **React, Angular, NodeJS**
 
